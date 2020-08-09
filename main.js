@@ -22,4 +22,4 @@ fs.readdir("./events/", (err, files) => {
     require(`./handler/${handler}`)(client);
 });
 
-client.login(config.TOKEN);
+client.login(config.TOKEN); //config in config.json TOKEN

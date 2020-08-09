@@ -2,5 +2,10 @@
     "prefix": "YourPrefix",
     "guildID": "GuildID",
     "ownerid": "YourID", 
-    "TOKEN": "TOKEN"
+    "TOKEN": "TOKEN",
+    "WELCOME": "YOUR WELCOME WHEN BOT TURN ON (in console)",
+    "ACTIVITY": "WATCHING, STREMING",
+    "STATUS": "dnd, online, offline",
+    "STATUSTEXT": "TEXT FOR STATUS",
+    "PERMISSION": "Your text if miss of permission"
 }
